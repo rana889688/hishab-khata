@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: hishab-khata
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node dist/server.cjs
+    envVars:
+      - key: NODE_VERSION
+        value: 20
+      - key: PORT
+        value: 10000

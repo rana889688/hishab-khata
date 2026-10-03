@@ -1,0 +1,6 @@
+{
+  "name": "হিসাব খাতা - মডার্ণ কম্পিউটার",
+  "description": "দৈনন্দিন লেনদেন, কাস্টমার বাকি-উসুল, ক্যাশ বই এবং সম্পূর্ণ ডাটাবেজ ব্যাকআপ ও রিস্টোর সিস্টেম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
